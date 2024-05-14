@@ -181,7 +181,7 @@ class SumoTrafficLightEnv(gym.Env):
             10: "rrrrggggrrrrGGGG",  # Left-right
             11: "rrrrrrrrggggGGGG",  # Left-bottom
             12: "yyyyyyyyyyyyyyyy",
-            13: "rrrrrrrrrrrrrrr"                   
+            13: "rrrrrrrrrrrrrrrr"                   
         }
 
        
