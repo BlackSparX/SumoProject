@@ -8,5 +8,3 @@ Need to have SUMO installed. Link to download page is: https://sumo.dlr.de/docs/
 Choose the 64-bit installer (if you have Windows).
 The necessary libraries to import are all given by the import statements in the code.
 
-
-Just adding this to ReadMe
